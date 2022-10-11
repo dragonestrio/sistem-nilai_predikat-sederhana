@@ -1,6 +1,6 @@
-# sistem-nilai_predikat-sederhana
+# simple web application to ranging and categorizing value
 
-This is just my schools task that make a simple web application for ranging and categorizing from a value. 
+This is just my schools task that make a simple web application to ranging and categorizing value. 
 This application built with html & php programming language. 
 
 --------
